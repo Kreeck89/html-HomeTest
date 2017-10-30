@@ -93,7 +93,7 @@ h1{
 }
 .services {
 	margin-top: 100px;
-	margin-bottom: 150px;
+	padding-bottom: 10px;
 }
 .services__item {
 	width: 270px;
@@ -115,10 +115,48 @@ h1{
 .services__item:nth-child(2) {
 	margin-left: 60px;
 }
+#services {
+	padding-bottom: 120px;
+}
+#portfolio {
+	background: #f7f7f7;
+	padding-bottom: 120px;
+}
+.works {
+	margin-top: 70px;
+}
+.works img {
+	float: left;
+}
+.works img:nth-child(2) {
+ 	margin-left: 30px;
+}
+.works img:last-child {
+	float: right;
+}
+.about__us {
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.first {
+	width: 350px;
+	margin: 5px auto;
+}
+.first p {
+	text
+}
+.first img {
+	float: left;
+	margin: 4px 10px 2px 0px;
+	padding: 6px;
+}
 
 
 
 
+.second {
+
+}
 
 
 
